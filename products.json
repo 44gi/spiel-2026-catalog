@@ -610,7 +610,8 @@
     "urlDe": "https://oinkgames.com/de/goods/six-box-strage-mint/",
     "photoNote": false,
     "isNew": true,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "other"
   },
   {
     "id": "deep-sea-adventure-and-dropolterd-clear-zipper-pouch",
@@ -625,7 +626,8 @@
     "urlDe": "https://oinkgames.com/de/goods/deep-sea-adventure-and-dropolterd-clear-zipper-pouch/",
     "photoNote": false,
     "isNew": true,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pouches"
   },
   {
     "id": "eggsposed-secret-mirror",
@@ -640,7 +642,8 @@
     "urlDe": "https://oinkgames.com/de/goods/eggsposed-secret-mirror/",
     "photoNote": false,
     "isNew": true,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "other"
   },
   {
     "id": "eggsposed-tshirt",
@@ -661,7 +664,8 @@
     "urlDe": null,
     "photoNote": false,
     "isNew": true,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "tshirts"
   },
   {
     "id": "pins-the-frozen-passage",
@@ -676,7 +680,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-the-frozen-passage/",
     "photoNote": false,
     "isNew": true,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "kobayakawa-metal-chips",
@@ -691,22 +696,8 @@
     "urlDe": "https://oinkgames.com/de/goods/kobayakawa-metal-chips/",
     "photoNote": false,
     "isNew": true,
-    "isBestseller": false
-  },
-  {
-    "id": "dn-scout",
-    "category": "merch",
-    "titleEn": "SCOUT Designer Notes",
-    "titleDe": "SCOUT  Designer Notes",
-    "price": 5.0,
-    "variants": [],
-    "imageEn": "assets/dn-scout-en.webp",
-    "imageDe": "assets/dn-scout-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/dn-scout/",
-    "urlDe": "https://oinkgames.com/de/goods/dn-scout/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "other"
   },
   {
     "id": "pins-scout",
@@ -721,28 +712,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-scout/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "scout-tshirt",
-    "category": "merch",
-    "titleEn": "SCOUT T-Shirt",
-    "titleDe": "SCOUT T-Shirt",
-    "price": 25.0,
-    "variants": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "imageEn": "assets/scout-tshirt-en.webp",
-    "imageDe": "assets/scout-tshirt-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/scout-tshirt/",
-    "urlDe": "https://oinkgames.com/de/goods/scout-tshirt/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-fa",
@@ -757,7 +728,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-fa/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-insider",
@@ -772,52 +744,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-insider/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "dn-deep-sea-adventure",
-    "category": "merch",
-    "titleEn": "Deep Sea Adventure / Deep Sea Adventure Boost Designer Notes",
-    "titleDe": "Tiefseeabenteuer / Tiefseeabenteuer Turbo Designer Notes",
-    "price": 5.0,
-    "variants": [],
-    "imageEn": "assets/dn-deep-sea-adventure-en.webp",
-    "imageDe": "assets/dn-deep-sea-adventure-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/dn-deep-sea-adventure/",
-    "urlDe": "https://oinkgames.com/de/goods/dn-deep-sea-adventure/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "dice-set",
-    "category": "merch",
-    "titleEn": "Dice Tray & \"Deep Sea Adventure\" Expansion dice",
-    "titleDe": "Dice Tray & \"Deep Sea Adventure\" Expansion dice",
-    "price": 8.0,
-    "variants": [],
-    "imageEn": "assets/dice-set-en.webp",
-    "imageDe": "assets/dice-set-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/dice-set/",
-    "urlDe": "https://oinkgames.com/de/goods/dice-set/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "deep-sea-adventure-felt-pouch",
-    "category": "merch",
-    "titleEn": "\"Deep Sea Adventure\" Felt Pouch",
-    "titleDe": "\"Deep Sea Adventure\" Felt Pouch",
-    "price": 15.0,
-    "variants": [],
-    "imageEn": null,
-    "imageDe": null,
-    "urlEn": null,
-    "urlDe": null,
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-dsa",
@@ -832,85 +760,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-dsa/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "deep-sea-adventure-boost-tshirt",
-    "category": "merch",
-    "titleEn": "Deep Sea Adventure Boost T-Shirt",
-    "titleDe": "Tiefseeabenteuer Turbo T-Shirt",
-    "price": 25.0,
-    "variants": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "imageEn": "assets/deep-sea-adventure-boost-tshirt-en.webp",
-    "imageDe": "assets/deep-sea-adventure-boost-tshirt-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/deep-sea-adventure-boost-tshirt/",
-    "urlDe": "https://oinkgames.com/de/goods/deep-sea-adventure-boost-tshirt/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "petiquette-sticker",
-    "category": "merch",
-    "titleEn": "\"petiquette\" Stickers",
-    "titleDe": "\"petiquette\"-Sticker",
-    "price": 4.0,
-    "variants": [],
-    "imageEn": "assets/petiquette-sticker-en.webp",
-    "imageDe": "assets/petiquette-sticker-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/petiquette-sticker/",
-    "urlDe": "https://oinkgames.com/de/goods/petiquette-sticker/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "petiquette-tshirt",
-    "category": "merch",
-    "titleEn": "Petiquette Dog T-Shirt",
-    "titleDe": "Petiquette Dog T-Shirt",
-    "price": 25.0,
-    "variants": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "imageEn": "assets/petiquette-tshirt-en.webp",
-    "imageDe": "assets/petiquette-tshirt-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/petiquette-tshirt/",
-    "urlDe": "https://oinkgames.com/de/goods/petiquette-tshirt/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "petiquette-cat-tshirt",
-    "category": "merch",
-    "titleEn": "Petiquette Cat T-Shirt",
-    "titleDe": "Petiquette Cat T-Shirt",
-    "price": 25.0,
-    "variants": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "imageEn": "assets/petiquette-cat-tshirt-en.webp",
-    "imageDe": "assets/petiquette-cat-tshirt-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/petiquette-cat-tshirt/",
-    "urlDe": "https://oinkgames.com/de/goods/petiquette-cat-tshirt/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-startups",
@@ -932,7 +783,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-startups/",
     "photoNote": true,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-order-overload-cafe",
@@ -947,7 +799,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-order-overload-cafe/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-rafter-five",
@@ -962,7 +815,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-rafter-five/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-wriggle-roulette",
@@ -977,7 +831,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-wriggle-roulette/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-moving-wild",
@@ -992,22 +847,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-moving-wild/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "moving-wild-sticker",
-    "category": "merch",
-    "titleEn": "\"Moving Wild\" Stickers",
-    "titleDe": "\"Moving Wild\"-Sticker",
-    "price": 6.0,
-    "variants": [],
-    "imageEn": "assets/moving-wild-sticker-en.webp",
-    "imageDe": "assets/moving-wild-sticker-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/moving-wild-sticker/",
-    "urlDe": "https://oinkgames.com/de/goods/moving-wild-sticker/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-maskmen",
@@ -1022,7 +863,8 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-maskmen/",
     "photoNote": true,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
   },
   {
     "id": "pins-tiger-and-dragon",
@@ -1037,7 +879,88 @@
     "urlDe": "https://oinkgames.com/de/goods/pins-tiger-and-dragon/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pins"
+  },
+  {
+    "id": "pins-heyyo",
+    "category": "merch",
+    "titleEn": "HEY YO Pin Badge",
+    "titleDe": "HEY YO Anstecknadel",
+    "price": 5.0,
+    "variants": [],
+    "imageEn": "assets/pins-heyyo-en.webp",
+    "imageDe": "assets/pins-heyyo-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/pins-heyyo/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-heyyo/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "pins"
+  },
+  {
+    "id": "pins-ganmenman",
+    "category": "merch",
+    "titleEn": "Mr. Face Pin Badge",
+    "titleDe": "Mr. Face Anstecknadel",
+    "price": 5.0,
+    "variants": [],
+    "imageEn": "assets/pins-ganmenman-en.webp",
+    "imageDe": "assets/pins-ganmenman-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/pins-ganmenman/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-ganmenman/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "pins"
+  },
+  {
+    "id": "pins-fafnir",
+    "category": "merch",
+    "titleEn": "Fafnir Pin Badge",
+    "titleDe": "Fafnir Anstecknadel",
+    "price": 5.0,
+    "variants": [],
+    "imageEn": "assets/pins-fafnir-en.webp",
+    "imageDe": "assets/pins-fafnir-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/pins-fafnir/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-fafnir/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "pins"
+  },
+  {
+    "id": "pins-oinklogo",
+    "category": "merch",
+    "titleEn": "Oink Games Logo Pin Badge",
+    "titleDe": "Oink Games Logo Anstecknadel",
+    "price": 5.0,
+    "variants": [],
+    "imageEn": "assets/pins-oinklogo-en.webp",
+    "imageDe": "assets/pins-oinklogo-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/pins-oinklogo/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-oinklogo/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "pins"
+  },
+  {
+    "id": "dice-set",
+    "category": "merch",
+    "titleEn": "Dice Tray & \"Deep Sea Adventure\" Expansion dice",
+    "titleDe": "Dice Tray & \"Deep Sea Adventure\" Expansion dice",
+    "price": 8.0,
+    "variants": [],
+    "imageEn": "assets/dice-set-en.webp",
+    "imageDe": "assets/dice-set-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/dice-set/",
+    "urlDe": "https://oinkgames.com/de/goods/dice-set/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "trays"
   },
   {
     "id": "box-fit-tray",
@@ -1059,112 +982,24 @@
     "urlDe": "https://oinkgames.com/de/goods/box-fit-tray/",
     "photoNote": true,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "trays"
   },
   {
-    "id": "clear-carrier",
+    "id": "deep-sea-adventure-felt-pouch",
     "category": "merch",
-    "titleEn": "Oink Games Clear Carrier",
-    "titleDe": "Oink Games Clear Carrier",
-    "price": 5.0,
+    "titleEn": "\"Deep Sea Adventure\" Felt Pouch",
+    "titleDe": "\"Deep Sea Adventure\" Felt Pouch",
+    "price": 15.0,
     "variants": [],
-    "imageEn": "assets/clear-carrier-en.webp",
-    "imageDe": "assets/clear-carrier-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/clear-carrier/",
-    "urlDe": "https://oinkgames.com/de/goods/clear-carrier/",
+    "imageEn": null,
+    "imageDe": null,
+    "urlEn": null,
+    "urlDe": null,
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "4-panel-comic-rules-book-2026",
-    "category": "merch",
-    "titleEn": "Easy-to-Learn Rulebook · 2026 Autumn EN",
-    "titleDe": "Easy-to-Learn Rulebook · 2026 Autumn EN",
-    "price": 8.0,
-    "variants": [],
-    "imageEn": "assets/4-panel-comic-rules-book-2026-en.webp",
-    "imageDe": "assets/4-panel-comic-rules-book-2026-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/4-panel-comic-rules-book-2026/",
-    "urlDe": "https://oinkgames.com/de/goods/4-panel-comic-rules-book-2026/",
-    "photoNote": true,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "clear-flake-seal",
-    "category": "merch",
-    "titleEn": "Oink Games Mini Box Stickers",
-    "titleDe": "Oink Games Mini Box Stickers",
-    "price": 8.0,
-    "variants": [],
-    "imageEn": "assets/clear-flake-seal-en.webp",
-    "imageDe": "assets/clear-flake-seal-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/clear-flake-seal/",
-    "urlDe": "https://oinkgames.com/de/goods/clear-flake-seal/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "pins-fafnir",
-    "category": "merch",
-    "titleEn": "Fafnir Pin Badge",
-    "titleDe": "Fafnir Anstecknadel",
-    "price": 5.0,
-    "variants": [],
-    "imageEn": "assets/pins-fafnir-en.webp",
-    "imageDe": "assets/pins-fafnir-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/pins-fafnir/",
-    "urlDe": "https://oinkgames.com/de/goods/pins-fafnir/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "pins-heyyo",
-    "category": "merch",
-    "titleEn": "HEY YO Pin Badge",
-    "titleDe": "HEY YO Anstecknadel",
-    "price": 5.0,
-    "variants": [],
-    "imageEn": "assets/pins-heyyo-en.webp",
-    "imageDe": "assets/pins-heyyo-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/pins-heyyo/",
-    "urlDe": "https://oinkgames.com/de/goods/pins-heyyo/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "pins-ganmenman",
-    "category": "merch",
-    "titleEn": "Mr. Face Pin Badge",
-    "titleDe": "Mr. Face Anstecknadel",
-    "price": 5.0,
-    "variants": [],
-    "imageEn": "assets/pins-ganmenman-en.webp",
-    "imageDe": "assets/pins-ganmenman-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/pins-ganmenman/",
-    "urlDe": "https://oinkgames.com/de/goods/pins-ganmenman/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
-  },
-  {
-    "id": "pins-oinklogo",
-    "category": "merch",
-    "titleEn": "Oink Games Logo Pin Badge",
-    "titleDe": "Oink Games Logo Anstecknadel",
-    "price": 5.0,
-    "variants": [],
-    "imageEn": "assets/pins-oinklogo-en.webp",
-    "imageDe": "assets/pins-oinklogo-en.webp",
-    "urlEn": "https://oinkgames.com/en/goods/pins-oinklogo/",
-    "urlDe": "https://oinkgames.com/de/goods/pins-oinklogo/",
-    "photoNote": false,
-    "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pouches"
   },
   {
     "id": "pouch-2023",
@@ -1183,7 +1018,120 @@
     "urlDe": "https://oinkgames.com/de/goods/pouch-2023/",
     "photoNote": true,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "pouches"
+  },
+  {
+    "id": "dn-scout",
+    "category": "merch",
+    "titleEn": "SCOUT Designer Notes",
+    "titleDe": "SCOUT  Designer Notes",
+    "price": 5.0,
+    "variants": [],
+    "imageEn": "assets/dn-scout-en.webp",
+    "imageDe": "assets/dn-scout-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/dn-scout/",
+    "urlDe": "https://oinkgames.com/de/goods/dn-scout/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "other"
+  },
+  {
+    "id": "dn-deep-sea-adventure",
+    "category": "merch",
+    "titleEn": "Deep Sea Adventure / Deep Sea Adventure Boost Designer Notes",
+    "titleDe": "Tiefseeabenteuer / Tiefseeabenteuer Turbo Designer Notes",
+    "price": 5.0,
+    "variants": [],
+    "imageEn": "assets/dn-deep-sea-adventure-en.webp",
+    "imageDe": "assets/dn-deep-sea-adventure-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/dn-deep-sea-adventure/",
+    "urlDe": "https://oinkgames.com/de/goods/dn-deep-sea-adventure/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "other"
+  },
+  {
+    "id": "petiquette-sticker",
+    "category": "merch",
+    "titleEn": "\"petiquette\" Stickers",
+    "titleDe": "\"petiquette\"-Sticker",
+    "price": 4.0,
+    "variants": [],
+    "imageEn": "assets/petiquette-sticker-en.webp",
+    "imageDe": "assets/petiquette-sticker-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/petiquette-sticker/",
+    "urlDe": "https://oinkgames.com/de/goods/petiquette-sticker/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "other"
+  },
+  {
+    "id": "moving-wild-sticker",
+    "category": "merch",
+    "titleEn": "\"Moving Wild\" Stickers",
+    "titleDe": "\"Moving Wild\"-Sticker",
+    "price": 6.0,
+    "variants": [],
+    "imageEn": "assets/moving-wild-sticker-en.webp",
+    "imageDe": "assets/moving-wild-sticker-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/moving-wild-sticker/",
+    "urlDe": "https://oinkgames.com/de/goods/moving-wild-sticker/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "other"
+  },
+  {
+    "id": "clear-carrier",
+    "category": "merch",
+    "titleEn": "Oink Games Clear Carrier",
+    "titleDe": "Oink Games Clear Carrier",
+    "price": 5.0,
+    "variants": [],
+    "imageEn": "assets/clear-carrier-en.webp",
+    "imageDe": "assets/clear-carrier-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/clear-carrier/",
+    "urlDe": "https://oinkgames.com/de/goods/clear-carrier/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "other"
+  },
+  {
+    "id": "4-panel-comic-rules-book-2026",
+    "category": "merch",
+    "titleEn": "Easy-to-Learn Rulebook · 2026 Autumn EN",
+    "titleDe": "Easy-to-Learn Rulebook · 2026 Autumn EN",
+    "price": 8.0,
+    "variants": [],
+    "imageEn": "assets/4-panel-comic-rules-book-2026-en.webp",
+    "imageDe": "assets/4-panel-comic-rules-book-2026-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/4-panel-comic-rules-book-2026/",
+    "urlDe": "https://oinkgames.com/de/goods/4-panel-comic-rules-book-2026/",
+    "photoNote": true,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "other"
+  },
+  {
+    "id": "clear-flake-seal",
+    "category": "merch",
+    "titleEn": "Oink Games Mini Box Stickers",
+    "titleDe": "Oink Games Mini Box Stickers",
+    "price": 8.0,
+    "variants": [],
+    "imageEn": "assets/clear-flake-seal-en.webp",
+    "imageDe": "assets/clear-flake-seal-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/clear-flake-seal/",
+    "urlDe": "https://oinkgames.com/de/goods/clear-flake-seal/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "other"
   },
   {
     "id": "mini-gift-envelope",
@@ -1198,6 +1146,95 @@
     "urlDe": "https://oinkgames.com/de/goods/mini-gift-envelope/",
     "photoNote": false,
     "isNew": false,
-    "isBestseller": false
+    "isBestseller": false,
+    "merchCategory": "other"
+  },
+  {
+    "id": "scout-tshirt",
+    "category": "merch",
+    "titleEn": "SCOUT T-Shirt",
+    "titleDe": "SCOUT T-Shirt",
+    "price": 25.0,
+    "variants": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imageEn": "assets/scout-tshirt-en.webp",
+    "imageDe": "assets/scout-tshirt-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/scout-tshirt/",
+    "urlDe": "https://oinkgames.com/de/goods/scout-tshirt/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "tshirts"
+  },
+  {
+    "id": "deep-sea-adventure-boost-tshirt",
+    "category": "merch",
+    "titleEn": "Deep Sea Adventure Boost T-Shirt",
+    "titleDe": "Tiefseeabenteuer Turbo T-Shirt",
+    "price": 25.0,
+    "variants": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imageEn": "assets/deep-sea-adventure-boost-tshirt-en.webp",
+    "imageDe": "assets/deep-sea-adventure-boost-tshirt-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/deep-sea-adventure-boost-tshirt/",
+    "urlDe": "https://oinkgames.com/de/goods/deep-sea-adventure-boost-tshirt/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "tshirts"
+  },
+  {
+    "id": "petiquette-tshirt",
+    "category": "merch",
+    "titleEn": "Petiquette Dog T-Shirt",
+    "titleDe": "Petiquette Dog T-Shirt",
+    "price": 25.0,
+    "variants": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imageEn": "assets/petiquette-tshirt-en.webp",
+    "imageDe": "assets/petiquette-tshirt-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/petiquette-tshirt/",
+    "urlDe": "https://oinkgames.com/de/goods/petiquette-tshirt/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "tshirts"
+  },
+  {
+    "id": "petiquette-cat-tshirt",
+    "category": "merch",
+    "titleEn": "Petiquette Cat T-Shirt",
+    "titleDe": "Petiquette Cat T-Shirt",
+    "price": 25.0,
+    "variants": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imageEn": "assets/petiquette-cat-tshirt-en.webp",
+    "imageDe": "assets/petiquette-cat-tshirt-en.webp",
+    "urlEn": "https://oinkgames.com/en/goods/petiquette-cat-tshirt/",
+    "urlDe": "https://oinkgames.com/de/goods/petiquette-cat-tshirt/",
+    "photoNote": false,
+    "isNew": false,
+    "isBestseller": false,
+    "merchCategory": "tshirts"
   }
 ]
