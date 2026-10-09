@@ -14,11 +14,15 @@
   document.getElementById('brand-link').href = `https://oinkgames.com/${lang}/`;
   document.getElementById('footer-link').href = `https://oinkgames.com/${lang}/`;
   document.getElementById('categories').setAttribute('aria-label', lang === 'en' ? 'Catalog' : 'Katalog');
-  fetch('products.json').then(r => {if(!r.ok) throw new Error('Catalog unavailable'); return r.json();}).then(products => {
+  fetch('products.json?v=20261009-badges').then(r => {if(!r.ok) throw new Error('Catalog unavailable'); return r.json();}).then(products => {
     products.forEach(p => {
       const article = document.querySelector(`[data-id="${p.id}"]`);
       if(!article) return;
       const title = p[lang === 'en' ? 'titleEn' : 'titleDe'];
+      const bonusBadge = article.querySelector('.badge-bonus');
+      if(bonusBadge) bonusBadge.textContent = lang === 'en' ? 'Event bonus' : 'Messe-Bonus';
+      const bonusDetail = article.querySelector('.bonus-detail');
+      if(bonusDetail) bonusDetail.textContent = (lang === 'en' ? 'Event bonus: ' : 'Messe-Bonus: ') + p[lang === 'en' ? 'bonusEn' : 'bonusDe'];
       const image = p[lang === 'en' ? 'imageEn' : 'imageDe'];
       const url = p[lang === 'en' ? 'urlEn' : 'urlDe'];
       article.querySelector('h3').textContent = title;

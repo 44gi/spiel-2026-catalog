@@ -13,7 +13,8 @@
     "imageDe": "assets/eggsposed-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/eggsposed/",
     "urlDe": "https://oinkgames.com/de/games/analog/eggsposed/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": true
   },
   {
     "id": "loop-40",
@@ -29,39 +30,8 @@
     "imageDe": "assets/loop-40-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/loop-40/",
     "urlDe": "https://oinkgames.com/de/games/analog/loop-40/",
-    "photoNote": false
-  },
-  {
-    "id": "the-frozen-passage",
-    "category": "games",
-    "titleEn": "The Frozen Passage",
-    "titleDe": "Expedition durchs Eis",
-    "price": 20.0,
-    "variants": [
-      "UK",
-      "DE"
-    ],
-    "imageEn": "assets/the-frozen-passage-en.webp",
-    "imageDe": "assets/the-frozen-passage-de.webp",
-    "urlEn": "https://oinkgames.com/en/games/analog/the-frozen-passage/",
-    "urlDe": "https://oinkgames.com/de/games/analog/the-frozen-passage/",
-    "photoNote": false
-  },
-  {
-    "id": "kobayakawa-2025",
-    "category": "games",
-    "titleEn": "Kobayakawa",
-    "titleDe": "Kobayakawa",
-    "price": 20.0,
-    "variants": [
-      "UK",
-      "DE"
-    ],
-    "imageEn": "assets/kobayakawa-2025-en.webp",
-    "imageDe": "assets/kobayakawa-2025-en.webp",
-    "urlEn": "https://oinkgames.com/en/games/analog/kobayakawa-2025/",
-    "urlDe": "https://oinkgames.com/de/games/analog/kobayakawa-2025/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": true
   },
   {
     "id": "compress",
@@ -77,7 +47,42 @@
     "imageDe": "assets/compress-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/compress/",
     "urlDe": "https://oinkgames.com/de/games/analog/compress/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": true
+  },
+  {
+    "id": "kobayakawa-2025",
+    "category": "games",
+    "titleEn": "Kobayakawa",
+    "titleDe": "Kobayakawa",
+    "price": 20.0,
+    "variants": [
+      "UK",
+      "DE"
+    ],
+    "imageEn": "assets/kobayakawa-2025-en.webp",
+    "imageDe": "assets/kobayakawa-2025-en.webp",
+    "urlEn": "https://oinkgames.com/en/games/analog/kobayakawa-2025/",
+    "urlDe": "https://oinkgames.com/de/games/analog/kobayakawa-2025/",
+    "photoNote": false,
+    "isNew": true
+  },
+  {
+    "id": "the-frozen-passage",
+    "category": "games",
+    "titleEn": "The Frozen Passage",
+    "titleDe": "Expedition durchs Eis",
+    "price": 20.0,
+    "variants": [
+      "UK",
+      "DE"
+    ],
+    "imageEn": "assets/the-frozen-passage-en.webp",
+    "imageDe": "assets/the-frozen-passage-de.webp",
+    "urlEn": "https://oinkgames.com/en/games/analog/the-frozen-passage/",
+    "urlDe": "https://oinkgames.com/de/games/analog/the-frozen-passage/",
+    "photoNote": false,
+    "isNew": true
   },
   {
     "id": "meow-tiles",
@@ -92,7 +97,8 @@
     "imageDe": "assets/meow-tiles-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/meow-tiles/",
     "urlDe": "https://oinkgames.com/de/games/analog/meow-tiles/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "souvenirs-from-beijing",
@@ -107,7 +113,8 @@
     "imageDe": "assets/souvenirs-from-beijing-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/souvenirs-from-beijing/",
     "urlDe": "https://oinkgames.com/de/games/analog/souvenirs-from-beijing/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "wriggle-roulette",
@@ -123,7 +130,8 @@
     "imageDe": "assets/wriggle-roulette-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/wriggle-roulette/",
     "urlDe": "https://oinkgames.com/de/games/analog/wriggle-roulette/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "petiquette",
@@ -139,7 +147,8 @@
     "imageDe": "assets/petiquette-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/petiquette/",
     "urlDe": "https://oinkgames.com/de/games/analog/petiquette/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pickn-packers",
@@ -155,7 +164,10 @@
     "imageDe": "assets/pickn-packers-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/pickn-packers/",
     "urlDe": "https://oinkgames.com/de/games/analog/pickn-packers/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false,
+    "bonusEn": "3-Player Drone",
+    "bonusDe": "Drohne für 3 Spieler"
   },
   {
     "id": "tropichaos",
@@ -171,7 +183,10 @@
     "imageDe": "assets/tropichaos-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/tropichaos/",
     "urlDe": "https://oinkgames.com/de/games/analog/tropichaos/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false,
+    "bonusEn": "Durian Expansion Chips",
+    "bonusDe": "Durian-Erweiterungschips"
   },
   {
     "id": "dying-message",
@@ -187,7 +202,10 @@
     "imageDe": "assets/dying-message-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/dying-message/",
     "urlDe": "https://oinkgames.com/de/games/analog/dying-message/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false,
+    "bonusEn": "Special Suspect Cards",
+    "bonusDe": "Besondere Verdächtigenkarten"
   },
   {
     "id": "trnd",
@@ -203,7 +221,8 @@
     "imageDe": "assets/trnd-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/trnd/",
     "urlDe": "https://oinkgames.com/de/games/analog/trnd/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "durian",
@@ -219,7 +238,8 @@
     "imageDe": "assets/durian-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/durian/",
     "urlDe": "https://oinkgames.com/de/games/analog/durian/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "dungeon-of-mandom-eight",
@@ -234,7 +254,8 @@
     "imageDe": "assets/dungeon-of-mandom-eight-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/dungeon-of-mandom-eight/",
     "urlDe": "https://oinkgames.com/de/games/analog/dungeon-of-mandom-eight/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "dropolter",
@@ -250,7 +271,8 @@
     "imageDe": "assets/dropolter-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/dropolter/",
     "urlDe": "https://oinkgames.com/de/games/analog/dropolter/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "a-fake-artist-goes-to-new-york",
@@ -266,7 +288,8 @@
     "imageDe": "assets/a-fake-artist-goes-to-new-york-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/a-fake-artist-goes-to-new-york/",
     "urlDe": "https://oinkgames.com/de/games/analog/a-fake-artist-goes-to-new-york/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "insider",
@@ -282,7 +305,8 @@
     "imageDe": "assets/insider-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/insider/",
     "urlDe": "https://oinkgames.com/de/games/analog/insider/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "make-the-difference",
@@ -298,7 +322,8 @@
     "imageDe": "assets/make-the-difference-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/make-the-difference/",
     "urlDe": "https://oinkgames.com/de/games/analog/make-the-difference/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "maskmen",
@@ -314,7 +339,8 @@
     "imageDe": "assets/maskmen-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/maskmen/",
     "urlDe": "https://oinkgames.com/de/games/analog/maskmen/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "moon-adventure",
@@ -330,7 +356,8 @@
     "imageDe": "assets/moon-adventure-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/moon-adventure/",
     "urlDe": "https://oinkgames.com/de/games/analog/moon-adventure/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "moving-wild",
@@ -346,7 +373,10 @@
     "imageDe": "assets/moving-wild-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/moving-wild/",
     "urlDe": "https://oinkgames.com/de/games/analog/moving-wild/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false,
+    "bonusEn": "Bison Card",
+    "bonusDe": "Bison-Karte"
   },
   {
     "id": "deep-sea-adventure-boost",
@@ -362,7 +392,8 @@
     "imageDe": "assets/deep-sea-adventure-boost-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/deep-sea-adventure-boost/",
     "urlDe": "https://oinkgames.com/de/games/analog/deep-sea-adventure-boost/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "nine-tiles-extreme",
@@ -378,7 +409,8 @@
     "imageDe": "assets/nine-tiles-extreme-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/nine-tiles-extreme/",
     "urlDe": "https://oinkgames.com/de/games/analog/nine-tiles-extreme/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "order-overload-cafe",
@@ -394,7 +426,8 @@
     "imageDe": "assets/order-overload-cafe-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/order-overload-cafe/",
     "urlDe": "https://oinkgames.com/de/games/analog/order-overload-cafe/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "quickity-pickity",
@@ -410,7 +443,8 @@
     "imageDe": "assets/quickity-pickity-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/quickity-pickity/",
     "urlDe": "https://oinkgames.com/de/games/analog/quickity-pickity/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "rafter-five",
@@ -426,7 +460,8 @@
     "imageDe": "assets/rafter-five-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/rafter-five/",
     "urlDe": "https://oinkgames.com/de/games/analog/rafter-five/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "scout",
@@ -442,7 +477,8 @@
     "imageDe": "assets/scout-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/scout/",
     "urlDe": "https://oinkgames.com/de/games/analog/scout/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "souvenirs-from-venice",
@@ -458,7 +494,8 @@
     "imageDe": "assets/souvenirs-from-venice-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/souvenirs-from-venice/",
     "urlDe": "https://oinkgames.com/de/games/analog/souvenirs-from-venice/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "startups",
@@ -474,7 +511,8 @@
     "imageDe": "assets/startups-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/startups/",
     "urlDe": "https://oinkgames.com/de/games/analog/startups/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "tiger-and-dragon",
@@ -489,7 +527,8 @@
     "imageDe": "assets/tiger-and-dragon-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/tiger-and-dragon/",
     "urlDe": "https://oinkgames.com/de/games/analog/tiger-and-dragon/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "town-77",
@@ -505,7 +544,8 @@
     "imageDe": "assets/town-77-en.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/town-77/",
     "urlDe": "https://oinkgames.com/de/games/analog/town-77/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "whale-to-look",
@@ -521,7 +561,8 @@
     "imageDe": "assets/whale-to-look-de.webp",
     "urlEn": "https://oinkgames.com/en/games/analog/whale-to-look/",
     "urlDe": "https://oinkgames.com/de/games/analog/whale-to-look/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "box-fit-tray",
@@ -541,7 +582,8 @@
     "imageDe": "assets/box-fit-tray-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/box-fit-tray/",
     "urlDe": "https://oinkgames.com/de/goods/box-fit-tray/",
-    "photoNote": true
+    "photoNote": true,
+    "isNew": false
   },
   {
     "id": "clear-carrier",
@@ -554,7 +596,8 @@
     "imageDe": "assets/clear-carrier-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/clear-carrier/",
     "urlDe": "https://oinkgames.com/de/goods/clear-carrier/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "deep-sea-adventure-and-dropolterd-clear-zipper-pouch",
@@ -567,7 +610,8 @@
     "imageDe": "assets/deep-sea-adventure-and-dropolterd-clear-zipper-pouch-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/deep-sea-adventure-and-dropolterd-clear-zipper-pouch/",
     "urlDe": "https://oinkgames.com/de/goods/deep-sea-adventure-and-dropolterd-clear-zipper-pouch/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "dn-deep-sea-adventure",
@@ -580,7 +624,8 @@
     "imageDe": "assets/dn-deep-sea-adventure-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/dn-deep-sea-adventure/",
     "urlDe": "https://oinkgames.com/de/goods/dn-deep-sea-adventure/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "dn-scout",
@@ -593,7 +638,8 @@
     "imageDe": "assets/dn-scout-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/dn-scout/",
     "urlDe": "https://oinkgames.com/de/goods/dn-scout/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "4-panel-comic-rules-book-2026",
@@ -606,7 +652,8 @@
     "imageDe": "assets/4-panel-comic-rules-book-2026-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/4-panel-comic-rules-book-2026/",
     "urlDe": "https://oinkgames.com/de/goods/4-panel-comic-rules-book-2026/",
-    "photoNote": true
+    "photoNote": true,
+    "isNew": false
   },
   {
     "id": "dice-set",
@@ -619,7 +666,8 @@
     "imageDe": "assets/dice-set-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/dice-set/",
     "urlDe": "https://oinkgames.com/de/goods/dice-set/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "six-box-strage-mint",
@@ -632,7 +680,8 @@
     "imageDe": "assets/six-box-strage-mint-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/six-box-strage-mint/",
     "urlDe": "https://oinkgames.com/de/goods/six-box-strage-mint/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "clear-flake-seal",
@@ -645,7 +694,8 @@
     "imageDe": "assets/clear-flake-seal-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/clear-flake-seal/",
     "urlDe": "https://oinkgames.com/de/goods/clear-flake-seal/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "deep-sea-adventure-felt-pouch",
@@ -658,7 +708,8 @@
     "imageDe": null,
     "urlEn": null,
     "urlDe": null,
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "kobayakawa-metal-chips",
@@ -671,7 +722,8 @@
     "imageDe": "assets/kobayakawa-metal-chips-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/kobayakawa-metal-chips/",
     "urlDe": "https://oinkgames.com/de/goods/kobayakawa-metal-chips/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-startups",
@@ -691,7 +743,8 @@
     "imageDe": "assets/pins-startups-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-startups/",
     "urlDe": "https://oinkgames.com/de/goods/pins-startups/",
-    "photoNote": true
+    "photoNote": true,
+    "isNew": false
   },
   {
     "id": "pins-dsa",
@@ -704,7 +757,8 @@
     "imageDe": "assets/pins-dsa-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-dsa/",
     "urlDe": "https://oinkgames.com/de/goods/pins-dsa/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-fafnir",
@@ -717,7 +771,8 @@
     "imageDe": "assets/pins-fafnir-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-fafnir/",
     "urlDe": "https://oinkgames.com/de/goods/pins-fafnir/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-fa",
@@ -730,7 +785,8 @@
     "imageDe": "assets/pins-fa-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-fa/",
     "urlDe": "https://oinkgames.com/de/goods/pins-fa/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-the-frozen-passage",
@@ -743,7 +799,8 @@
     "imageDe": "assets/pins-the-frozen-passage-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-the-frozen-passage/",
     "urlDe": "https://oinkgames.com/de/goods/pins-the-frozen-passage/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-heyyo",
@@ -756,7 +813,8 @@
     "imageDe": "assets/pins-heyyo-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-heyyo/",
     "urlDe": "https://oinkgames.com/de/goods/pins-heyyo/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-insider",
@@ -769,7 +827,8 @@
     "imageDe": "assets/pins-insider-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-insider/",
     "urlDe": "https://oinkgames.com/de/goods/pins-insider/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-maskmen",
@@ -782,7 +841,8 @@
     "imageDe": "assets/pins-maskmen-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-maskmen/",
     "urlDe": "https://oinkgames.com/de/goods/pins-maskmen/",
-    "photoNote": true
+    "photoNote": true,
+    "isNew": false
   },
   {
     "id": "pins-ganmenman",
@@ -795,7 +855,8 @@
     "imageDe": "assets/pins-ganmenman-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-ganmenman/",
     "urlDe": "https://oinkgames.com/de/goods/pins-ganmenman/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-order-overload-cafe",
@@ -808,7 +869,8 @@
     "imageDe": "assets/pins-order-overload-cafe-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-order-overload-cafe/",
     "urlDe": "https://oinkgames.com/de/goods/pins-order-overload-cafe/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-oinklogo",
@@ -821,7 +883,8 @@
     "imageDe": "assets/pins-oinklogo-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-oinklogo/",
     "urlDe": "https://oinkgames.com/de/goods/pins-oinklogo/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-scout",
@@ -834,7 +897,8 @@
     "imageDe": "assets/pins-scout-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-scout/",
     "urlDe": "https://oinkgames.com/de/goods/pins-scout/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-rafter-five",
@@ -847,7 +911,8 @@
     "imageDe": "assets/pins-rafter-five-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-rafter-five/",
     "urlDe": "https://oinkgames.com/de/goods/pins-rafter-five/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-moving-wild",
@@ -860,7 +925,8 @@
     "imageDe": "assets/pins-moving-wild-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-moving-wild/",
     "urlDe": "https://oinkgames.com/de/goods/pins-moving-wild/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-wriggle-roulette",
@@ -873,7 +939,8 @@
     "imageDe": "assets/pins-wriggle-roulette-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-wriggle-roulette/",
     "urlDe": "https://oinkgames.com/de/goods/pins-wriggle-roulette/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pins-tiger-and-dragon",
@@ -886,7 +953,8 @@
     "imageDe": "assets/pins-tiger-and-dragon-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pins-tiger-and-dragon/",
     "urlDe": "https://oinkgames.com/de/goods/pins-tiger-and-dragon/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "pouch-2023",
@@ -903,7 +971,8 @@
     "imageDe": "assets/pouch-2023-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/pouch-2023/",
     "urlDe": "https://oinkgames.com/de/goods/pouch-2023/",
-    "photoNote": true
+    "photoNote": true,
+    "isNew": false
   },
   {
     "id": "petiquette-sticker",
@@ -916,7 +985,8 @@
     "imageDe": "assets/petiquette-sticker-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/petiquette-sticker/",
     "urlDe": "https://oinkgames.com/de/goods/petiquette-sticker/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "moving-wild-sticker",
@@ -929,7 +999,8 @@
     "imageDe": "assets/moving-wild-sticker-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/moving-wild-sticker/",
     "urlDe": "https://oinkgames.com/de/goods/moving-wild-sticker/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "deep-sea-adventure-boost-tshirt",
@@ -948,7 +1019,8 @@
     "imageDe": "assets/deep-sea-adventure-boost-tshirt-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/deep-sea-adventure-boost-tshirt/",
     "urlDe": "https://oinkgames.com/de/goods/deep-sea-adventure-boost-tshirt/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "petiquette-tshirt",
@@ -967,7 +1039,8 @@
     "imageDe": "assets/petiquette-tshirt-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/petiquette-tshirt/",
     "urlDe": "https://oinkgames.com/de/goods/petiquette-tshirt/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "petiquette-cat-tshirt",
@@ -986,7 +1059,8 @@
     "imageDe": "assets/petiquette-cat-tshirt-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/petiquette-cat-tshirt/",
     "urlDe": "https://oinkgames.com/de/goods/petiquette-cat-tshirt/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "scout-tshirt",
@@ -1005,7 +1079,8 @@
     "imageDe": "assets/scout-tshirt-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/scout-tshirt/",
     "urlDe": "https://oinkgames.com/de/goods/scout-tshirt/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "eggsposed-tshirt",
@@ -1024,7 +1099,8 @@
     "imageDe": null,
     "urlEn": null,
     "urlDe": null,
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "eggsposed-secret-mirror",
@@ -1037,7 +1113,8 @@
     "imageDe": "assets/eggsposed-secret-mirror-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/eggsposed-secret-mirror/",
     "urlDe": "https://oinkgames.com/de/goods/eggsposed-secret-mirror/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   },
   {
     "id": "mini-gift-envelope",
@@ -1050,6 +1127,7 @@
     "imageDe": "assets/mini-gift-envelope-en.webp",
     "urlEn": "https://oinkgames.com/en/goods/mini-gift-envelope/",
     "urlDe": "https://oinkgames.com/de/goods/mini-gift-envelope/",
-    "photoNote": false
+    "photoNote": false,
+    "isNew": false
   }
 ]
