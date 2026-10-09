@@ -19,6 +19,14 @@ This is a saved snapshot, not a live connection to Google Sheets. Update `produc
 
 The browser's primary language selects German for `de` / `de-*`, and English otherwise. `?lang=de` and `?lang=en` override this through the language buttons. Images link to the matching language of the official product page. The German catalog works without JavaScript.
 
+## Catalog order and highlights
+
+Games appear in this order: five new games, four games with event bonuses, five bestsellers, then the remaining games. Within the latter three groups, order follows entered unit sales for January–September 2026. No internal sales counts or customer data are published.
+
+Bestseller labels: SCOUT, A Fake Artist Goes to New York, DroPolter, Insider, and Deep Sea Adventure Boost.
+
+New merch appears first: 6-Box Storage, Clear Zipper Pouch, Eggsposed Secret Mirror, Eggsposed T-Shirt, The Frozen Passage Pin Badge, and Kobayakawa Metal Chips. Remaining merch uses related-game sales as a popularity proxy; ties retain their previous order. This is not a ranking of merch sales.
+
 ## Image gaps and product families
 
 - Eggsposed T-Shirt and Deep Sea Adventure Felt Pouch have no verified official product photo or live product page; their prices and variants remain listed with a photo placeholder.
