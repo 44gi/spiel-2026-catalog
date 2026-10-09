@@ -14,7 +14,7 @@
   document.getElementById('brand-link').href = `https://oinkgames.com/${lang}/`;
   document.getElementById('footer-link').href = `https://oinkgames.com/${lang}/`;
   document.getElementById('categories').setAttribute('aria-label', lang === 'en' ? 'Catalog' : 'Katalog');
-  fetch('products.json?v=20261009-merch-categories').then(r => {if(!r.ok) throw new Error('Catalog unavailable'); return r.json();}).then(products => {
+  fetch('products.json?v=20261009-gift-new').then(r => {if(!r.ok) throw new Error('Catalog unavailable'); return r.json();}).then(products => {
     products.forEach(p => {
       const article = document.querySelector(`[data-id="${p.id}"]`);
       if(!article) return;
