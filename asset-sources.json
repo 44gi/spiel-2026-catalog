@@ -1,0 +1,410 @@
+{
+  "eggsposed": {
+    "urlEn": "https://oinkgames.com/en/games/analog/eggsposed/",
+    "urlDe": "https://oinkgames.com/de/games/analog/eggsposed/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/eggsposed_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/eggsposed_de_front.png"
+  },
+  "loop-40": {
+    "urlEn": "https://oinkgames.com/en/games/analog/loop-40/",
+    "urlDe": "https://oinkgames.com/de/games/analog/loop-40/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/loop-40_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/loop-40_de_front.png"
+  },
+  "the-frozen-passage": {
+    "urlEn": "https://oinkgames.com/en/games/analog/the-frozen-passage/",
+    "urlDe": "https://oinkgames.com/de/games/analog/the-frozen-passage/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/the-frozen-passage_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/the-frozen-passage_de_front.png"
+  },
+  "kobayakawa-2025": {
+    "urlEn": "https://oinkgames.com/en/games/analog/kobayakawa-2025/",
+    "urlDe": "https://oinkgames.com/de/games/analog/kobayakawa-2025/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/kobayakawa-2025_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/kobayakawa-2025_de_front.png"
+  },
+  "compress": {
+    "urlEn": "https://oinkgames.com/en/games/analog/compress/",
+    "urlDe": "https://oinkgames.com/de/games/analog/compress/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/compress_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/compress_de_front.png"
+  },
+  "meow-tiles": {
+    "urlEn": "https://oinkgames.com/en/games/analog/meow-tiles/",
+    "urlDe": "https://oinkgames.com/de/games/analog/meow-tiles/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/meow-tiles_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/meow-tiles_de_front.png"
+  },
+  "souvenirs-from-beijing": {
+    "urlEn": "https://oinkgames.com/en/games/analog/souvenirs-from-beijing/",
+    "urlDe": "https://oinkgames.com/de/games/analog/souvenirs-from-beijing/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/souvenirs-from-beijing_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/souvenirs-from-beijing_de_front.png"
+  },
+  "wriggle-roulette": {
+    "urlEn": "https://oinkgames.com/en/games/analog/wriggle-roulette/",
+    "urlDe": "https://oinkgames.com/de/games/analog/wriggle-roulette/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/wriggle-roulette_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/wriggle-roulette_de_front.png"
+  },
+  "petiquette": {
+    "urlEn": "https://oinkgames.com/en/games/analog/petiquette/",
+    "urlDe": "https://oinkgames.com/de/games/analog/petiquette/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/petiquette_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/petiquette_de_front.png"
+  },
+  "pickn-packers": {
+    "urlEn": "https://oinkgames.com/en/games/analog/pickn-packers/",
+    "urlDe": "https://oinkgames.com/de/games/analog/pickn-packers/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/pickn-packers_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/pickn-packers_de_front.png"
+  },
+  "tropichaos": {
+    "urlEn": "https://oinkgames.com/en/games/analog/tropichaos/",
+    "urlDe": "https://oinkgames.com/de/games/analog/tropichaos/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/tropichaos_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/tropichaos_de_front.png"
+  },
+  "dying-message": {
+    "urlEn": "https://oinkgames.com/en/games/analog/dying-message/",
+    "urlDe": "https://oinkgames.com/de/games/analog/dying-message/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/dying-message_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/dying-message_de_front.png"
+  },
+  "trnd": {
+    "urlEn": "https://oinkgames.com/en/games/analog/trnd/",
+    "urlDe": "https://oinkgames.com/de/games/analog/trnd/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/trnd_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/trnd_de_front.png"
+  },
+  "durian": {
+    "urlEn": "https://oinkgames.com/en/games/analog/durian/",
+    "urlDe": "https://oinkgames.com/de/games/analog/durian/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/durian_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/durian_de_front.png"
+  },
+  "dungeon-of-mandom-eight": {
+    "urlEn": "https://oinkgames.com/en/games/analog/dungeon-of-mandom-eight/",
+    "urlDe": "https://oinkgames.com/de/games/analog/dungeon-of-mandom-eight/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/dungeon-of-mandom-eight_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/dungeon-of-mandom-eight_de_front.png"
+  },
+  "dropolter": {
+    "urlEn": "https://oinkgames.com/en/games/analog/dropolter/",
+    "urlDe": "https://oinkgames.com/de/games/analog/dropolter/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/dropolter_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/dropolter_de_front.png"
+  },
+  "a-fake-artist-goes-to-new-york": {
+    "urlEn": "https://oinkgames.com/en/games/analog/a-fake-artist-goes-to-new-york/",
+    "urlDe": "https://oinkgames.com/de/games/analog/a-fake-artist-goes-to-new-york/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/a-fake-artist-goes-to-new-york_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/a-fake-artist-goes-to-new-york_de_front.png"
+  },
+  "insider": {
+    "urlEn": "https://oinkgames.com/en/games/analog/insider/",
+    "urlDe": "https://oinkgames.com/de/games/analog/insider/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/insider_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/insider_de_front.png"
+  },
+  "make-the-difference": {
+    "urlEn": "https://oinkgames.com/en/games/analog/make-the-difference/",
+    "urlDe": "https://oinkgames.com/de/games/analog/make-the-difference/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/make-the-difference_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/make-the-difference_de_front.png"
+  },
+  "maskmen": {
+    "urlEn": "https://oinkgames.com/en/games/analog/maskmen/",
+    "urlDe": "https://oinkgames.com/de/games/analog/maskmen/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/maskmen_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/maskmen_de_front.png"
+  },
+  "moon-adventure": {
+    "urlEn": "https://oinkgames.com/en/games/analog/moon-adventure/",
+    "urlDe": "https://oinkgames.com/de/games/analog/moon-adventure/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/moon-adventure_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/moon-adventure_de_front.png"
+  },
+  "moving-wild": {
+    "urlEn": "https://oinkgames.com/en/games/analog/moving-wild/",
+    "urlDe": "https://oinkgames.com/de/games/analog/moving-wild/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/moving-wild_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/moving-wild_de_front.png"
+  },
+  "deep-sea-adventure-boost": {
+    "urlEn": "https://oinkgames.com/en/games/analog/deep-sea-adventure-boost/",
+    "urlDe": "https://oinkgames.com/de/games/analog/deep-sea-adventure-boost/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/deep-sea-adventure-boost_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/deep-sea-adventure-boost_de_front.png"
+  },
+  "nine-tiles-extreme": {
+    "urlEn": "https://oinkgames.com/en/games/analog/nine-tiles-extreme/",
+    "urlDe": "https://oinkgames.com/de/games/analog/nine-tiles-extreme/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/nine-tiles-extreme_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/nine-tiles-extreme_de_front.png"
+  },
+  "order-overload-cafe": {
+    "urlEn": "https://oinkgames.com/en/games/analog/order-overload-cafe/",
+    "urlDe": "https://oinkgames.com/de/games/analog/order-overload-cafe/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/order-overload-cafe_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/order-overload-cafe_de_front.png"
+  },
+  "quickity-pickity": {
+    "urlEn": "https://oinkgames.com/en/games/analog/quickity-pickity/",
+    "urlDe": "https://oinkgames.com/de/games/analog/quickity-pickity/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/quickity-pickity_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/quickity-pickity_de_front.png"
+  },
+  "rafter-five": {
+    "urlEn": "https://oinkgames.com/en/games/analog/rafter-five/",
+    "urlDe": "https://oinkgames.com/de/games/analog/rafter-five/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/rafter-five_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/rafter-five_de_front.png"
+  },
+  "scout": {
+    "urlEn": "https://oinkgames.com/en/games/analog/scout/",
+    "urlDe": "https://oinkgames.com/de/games/analog/scout/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/scout_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/scout_de_front.png"
+  },
+  "souvenirs-from-venice": {
+    "urlEn": "https://oinkgames.com/en/games/analog/souvenirs-from-venice/",
+    "urlDe": "https://oinkgames.com/de/games/analog/souvenirs-from-venice/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/souvenirs-from-venice_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/souvenirs-from-venice_de_front.png"
+  },
+  "startups": {
+    "urlEn": "https://oinkgames.com/en/games/analog/startups/",
+    "urlDe": "https://oinkgames.com/de/games/analog/startups/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/startups_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/startups_de_front.png"
+  },
+  "tiger-and-dragon": {
+    "urlEn": "https://oinkgames.com/en/games/analog/tiger-and-dragon/",
+    "urlDe": "https://oinkgames.com/de/games/analog/tiger-and-dragon/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/tiger-and-dragon_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/tiger-and-dragon_de_front.png"
+  },
+  "town-77": {
+    "urlEn": "https://oinkgames.com/en/games/analog/town-77/",
+    "urlDe": "https://oinkgames.com/de/games/analog/town-77/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/town-77_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/town-77_de_front.png"
+  },
+  "whale-to-look": {
+    "urlEn": "https://oinkgames.com/en/games/analog/whale-to-look/",
+    "urlDe": "https://oinkgames.com/de/games/analog/whale-to-look/",
+    "imageSourceEn": "https://oinkgames.com/images/flatview/whale-to-look_en_front.png",
+    "imageSourceDe": "https://oinkgames.com/images/flatview/whale-to-look_de_front.png"
+  },
+  "box-fit-tray": {
+    "urlEn": "https://oinkgames.com/en/goods/box-fit-tray/",
+    "urlDe": "https://oinkgames.com/de/goods/box-fit-tray/",
+    "imageSourceEn": "https://oinkgames.com/images/description/box-fit-tray/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/box-fit-tray/image01.png"
+  },
+  "clear-carrier": {
+    "urlEn": "https://oinkgames.com/en/goods/clear-carrier/",
+    "urlDe": "https://oinkgames.com/de/goods/clear-carrier/",
+    "imageSourceEn": "https://oinkgames.com/images/description/clear-carrier/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/clear-carrier/image01.png"
+  },
+  "deep-sea-adventure-and-dropolterd-clear-zipper-pouch": {
+    "urlEn": "https://oinkgames.com/en/goods/deep-sea-adventure-and-dropolterd-clear-zipper-pouch/",
+    "urlDe": "https://oinkgames.com/de/goods/deep-sea-adventure-and-dropolterd-clear-zipper-pouch/",
+    "imageSourceEn": "https://oinkgames.com/images/description/deep-sea-adventure-and-dropolterd-clear-zipper-pouch/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/deep-sea-adventure-and-dropolterd-clear-zipper-pouch/image01.png"
+  },
+  "dn-deep-sea-adventure": {
+    "urlEn": "https://oinkgames.com/en/goods/dn-deep-sea-adventure/",
+    "urlDe": "https://oinkgames.com/de/goods/dn-deep-sea-adventure/",
+    "imageSourceEn": "https://oinkgames.com/images/description/dn-deep-sea-adventure/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/dn-deep-sea-adventure/image01.png"
+  },
+  "dn-scout": {
+    "urlEn": "https://oinkgames.com/en/goods/dn-scout/",
+    "urlDe": "https://oinkgames.com/de/goods/dn-scout/",
+    "imageSourceEn": "https://oinkgames.com/images/description/dn-scout/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/dn-scout/image01.png"
+  },
+  "4-panel-comic-rules-book-2026": {
+    "urlEn": "https://oinkgames.com/en/goods/4-panel-comic-rules-book-2026/",
+    "urlDe": "https://oinkgames.com/de/goods/4-panel-comic-rules-book-2026/",
+    "imageSourceEn": "https://oinkgames.com/images/description/4-panel-comic-rules-book-2026/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/4-panel-comic-rules-book-2026/image01.png"
+  },
+  "dice-set": {
+    "urlEn": "https://oinkgames.com/en/goods/dice-set/",
+    "urlDe": "https://oinkgames.com/de/goods/dice-set/",
+    "imageSourceEn": "https://oinkgames.com/images/description/dice-set/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/dice-set/image01.png"
+  },
+  "six-box-strage-mint": {
+    "urlEn": "https://oinkgames.com/en/goods/six-box-strage-mint/",
+    "urlDe": "https://oinkgames.com/de/goods/six-box-strage-mint/",
+    "imageSourceEn": "https://oinkgames.com/images/description/six-box-strage-mint/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/six-box-strage-mint/image01.png"
+  },
+  "clear-flake-seal": {
+    "urlEn": "https://oinkgames.com/en/goods/clear-flake-seal/",
+    "urlDe": "https://oinkgames.com/de/goods/clear-flake-seal/",
+    "imageSourceEn": "https://oinkgames.com/images/description/clear-flake-seal/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/clear-flake-seal/image01.png"
+  },
+  "kobayakawa-metal-chips": {
+    "urlEn": "https://oinkgames.com/en/goods/kobayakawa-metal-chips/",
+    "urlDe": "https://oinkgames.com/de/goods/kobayakawa-metal-chips/",
+    "imageSourceEn": "https://oinkgames.com/images/description/kobayakawa-metal-chips/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/kobayakawa-metal-chips/image01.png"
+  },
+  "pins-startups": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-startups/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-startups/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-startups/image01.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-startups/image01.jpg"
+  },
+  "pins-dsa": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-dsa/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-dsa/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-dsa/image02-dsa.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-dsa/image02-dsa.jpg"
+  },
+  "pins-fafnir": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-fafnir/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-fafnir/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-fafnir/image02-fafnir.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-fafnir/image02-fafnir.jpg"
+  },
+  "pins-fa": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-fa/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-fa/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-fa/image02-fa.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-fa/image02-fa.jpg"
+  },
+  "pins-the-frozen-passage": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-the-frozen-passage/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-the-frozen-passage/",
+    "imageSourceEn": "https://oinkgames.com/images/goods/pins-the-frozen-passage.png",
+    "imageSourceDe": "https://oinkgames.com/images/goods/pins-the-frozen-passage.png"
+  },
+  "pins-heyyo": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-heyyo/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-heyyo/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-heyyo/image01.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-heyyo/image01.jpg"
+  },
+  "pins-insider": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-insider/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-insider/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-insider/image02-insider.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-insider/image02-insider.jpg"
+  },
+  "pins-maskmen": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-maskmen/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-maskmen/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-maskmen/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-maskmen/image01.png"
+  },
+  "pins-ganmenman": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-ganmenman/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-ganmenman/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-ganmenman/image02-mr-face.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-ganmenman/image02-mr-face.jpg"
+  },
+  "pins-order-overload-cafe": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-order-overload-cafe/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-order-overload-cafe/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-order-overload-cafe/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-order-overload-cafe/image01.png"
+  },
+  "pins-oinklogo": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-oinklogo/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-oinklogo/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-oinklogo/image02-oink.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-oinklogo/image02-oink.jpg"
+  },
+  "pins-scout": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-scout/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-scout/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-scout/image01.jpg",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-scout/image01.jpg"
+  },
+  "pins-rafter-five": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-rafter-five/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-rafter-five/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-rafter-five/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-rafter-five/image01.png"
+  },
+  "pins-moving-wild": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-moving-wild/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-moving-wild/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-moving-wild/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-moving-wild/image01.png"
+  },
+  "pins-wriggle-roulette": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-wriggle-roulette/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-wriggle-roulette/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-wriggle-roulette/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-wriggle-roulette/image01.png"
+  },
+  "pins-tiger-and-dragon": {
+    "urlEn": "https://oinkgames.com/en/goods/pins-tiger-and-dragon/",
+    "urlDe": "https://oinkgames.com/de/goods/pins-tiger-and-dragon/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pins-tiger-and-dragon/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/pins-tiger-and-dragon/image01.png"
+  },
+  "pouch-2023": {
+    "urlEn": "https://oinkgames.com/en/goods/pouch-2023/",
+    "urlDe": "https://oinkgames.com/de/goods/pouch-2023/",
+    "imageSourceEn": "https://oinkgames.com/images/description/pouch-2023/image05.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/pouch-2023/image05.png"
+  },
+  "petiquette-sticker": {
+    "urlEn": "https://oinkgames.com/en/goods/petiquette-sticker/",
+    "urlDe": "https://oinkgames.com/de/goods/petiquette-sticker/",
+    "imageSourceEn": "https://oinkgames.com/images/description/petiquette-sticker/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/petiquette-sticker/image01.png"
+  },
+  "moving-wild-sticker": {
+    "urlEn": "https://oinkgames.com/en/goods/moving-wild-sticker/",
+    "urlDe": "https://oinkgames.com/de/goods/moving-wild-sticker/",
+    "imageSourceEn": "https://oinkgames.com/images/description/moving-wild-sticker/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/moving-wild-sticker/image01.png"
+  },
+  "deep-sea-adventure-boost-tshirt": {
+    "urlEn": "https://oinkgames.com/en/goods/deep-sea-adventure-boost-tshirt/",
+    "urlDe": "https://oinkgames.com/de/goods/deep-sea-adventure-boost-tshirt/",
+    "imageSourceEn": "https://oinkgames.com/images/description/deep-sea-adventure-boost-tshirt/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/deep-sea-adventure-boost-tshirt/image01.png"
+  },
+  "petiquette-tshirt": {
+    "urlEn": "https://oinkgames.com/en/goods/petiquette-tshirt/",
+    "urlDe": "https://oinkgames.com/de/goods/petiquette-tshirt/",
+    "imageSourceEn": "https://oinkgames.com/images/description/petiquette-tshirt/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/petiquette-tshirt/image01.png"
+  },
+  "petiquette-cat-tshirt": {
+    "urlEn": "https://oinkgames.com/en/goods/petiquette-cat-tshirt/",
+    "urlDe": "https://oinkgames.com/de/goods/petiquette-cat-tshirt/",
+    "imageSourceEn": "https://oinkgames.com/images/description/petiquette-cat-tshirt/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/petiquette-cat-tshirt/image01.png"
+  },
+  "scout-tshirt": {
+    "urlEn": "https://oinkgames.com/en/goods/scout-tshirt/",
+    "urlDe": "https://oinkgames.com/de/goods/scout-tshirt/",
+    "imageSourceEn": "https://oinkgames.com/images/description/scout-tshirt/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/scout-tshirt/image01.png"
+  },
+  "eggsposed-secret-mirror": {
+    "urlEn": "https://oinkgames.com/en/goods/eggsposed-secret-mirror/",
+    "urlDe": "https://oinkgames.com/de/goods/eggsposed-secret-mirror/",
+    "imageSourceEn": "https://oinkgames.com/images/description/eggsposed-secret-mirror/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/eggsposed-secret-mirror/image01.png"
+  },
+  "mini-gift-envelope": {
+    "urlEn": "https://oinkgames.com/en/goods/mini-gift-envelope/",
+    "urlDe": "https://oinkgames.com/de/goods/mini-gift-envelope/",
+    "imageSourceEn": "https://oinkgames.com/images/description/mini-gift-envelope/image01.png",
+    "imageSourceDe": "https://oinkgames.com/images/description/mini-gift-envelope/image01.png"
+  }
+}
