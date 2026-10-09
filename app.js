@@ -1,5 +1,9 @@
 (() => {
-  const lang = new URLSearchParams(location.search).get('lang') === 'en' ? 'en' : 'de';
+  const selectedLang = new URLSearchParams(location.search).get('lang');
+  const browserLang = navigator.language || navigator.languages?.[0] || 'en';
+  const lang = selectedLang === 'de' || selectedLang === 'en'
+    ? selectedLang
+    : /^de(?:-|$)/i.test(browserLang) ? 'de' : 'en';
   const copy = {
     de: {skip:'Zum Katalog',eyebrow:'Oink Games am Messestand',title:'Unser SPIEL-Sortiment',intro:'Unser Sortiment und die Preise auf der SPIEL 2026.',games:'Spiele',merch:'Merch',boothPrices:'Preise am Messestand',imageHint:'Bild antippen für Produktdetails',availability:'Solange der Vorrat reicht. Verfügbarkeit bitte am Stand erfragen.'},
     en: {skip:'Skip to catalog',eyebrow:'Oink Games at SPIEL',title:'Our SPIEL lineup',intro:'Our games, merch and booth prices at SPIEL 2026.',games:'Games',merch:'Merch',boothPrices:'Booth prices',imageHint:'Tap an image for product details',availability:'While supplies last. Please ask at the booth about availability.'}

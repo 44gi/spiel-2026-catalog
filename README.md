@@ -17,7 +17,7 @@ In Settings → Pages, choose “Deploy from a branch”, `main`, `/(root)`. No 
 
 This is a saved snapshot, not a live connection to Google Sheets. Update `products.json` and the corresponding cards in `index.html` together. Use the `data-id` attribute to locate a card. Save any new official images under `assets/`.
 
-`?lang=de` and `?lang=en` select the language; German is the default. Images link to the matching language of the official product page. The German catalog works without JavaScript.
+The browser's primary language selects German for `de` / `de-*`, and English otherwise. `?lang=de` and `?lang=en` override this through the language buttons. Images link to the matching language of the official product page. The German catalog works without JavaScript.
 
 ## Image gaps and product families
 
